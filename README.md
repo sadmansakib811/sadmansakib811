@@ -1,17 +1,17 @@
 # <div align="left">Hi there👋
-  I'm Md Shariful Islam- a Software developer living in Dortmund, Germany. I love writing clean and maintainable code for web application specialized in JavaScript technologies and mobile applications, passionate about learning and exploring new technologies as well I'm enthusiastic about UI/UX.  </div> 
+  I'm Sadman Sakib- a Software developer living in Dortmund, Germany. I love writing clean and maintainable code for web application specialized in JavaScript technologies and mobile applications, passionate about learning and exploring new technologies as well I'm enthusiastic about UI/UX.  </div> 
 
 ### <div align="left"> Web Developer</div>  
   
 
-- 🔭 I’m currently working at [ISD Software und Systeme GmbH](https://www.isdgroup.com/en/)  as working student since 1st Sept 2022
+- 🔭 I’m currently working at 
   
 
 - 🌱 I’m currently learning Complete Redux Course [Learn with Sumit](https://learnwithsumit.com/) 
   
 - 🤔 Technologies I would like to learn next: GraphQL, NextJs.
 
-- 👯 I’m looking to collaborate to [ProttoyTechLab](https://bit.ly/3HexVkX)  
+- 👯 I’m looking to collaborate to   
   
 - 🥳 Fun fact: I love to cook, I love to sing, I love to travel all over the world.
 
