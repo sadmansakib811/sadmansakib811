@@ -6,9 +6,6 @@
 
 - 🔭 I’m currently looking for a student or a full time job
   
-
-- 🌱 I’m currently learning Complete Redux Course [Learn with Sumit](https://learnwithsumit.com/) 
-  
 - 🤔 Technologies I would like to learn next: GraphQL, VUE JS.
 
 - 👯 I’m looking to collaborate to   
