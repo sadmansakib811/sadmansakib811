@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for a student or a full time job
   
-- 🤔 Technologies I would like to learn next: Micro Service with Springboot, VUE JS.
+- 🤔 Technologies I would like to learn next:Power BI.
 
 - 👯 I’m looking to collaborate to   
   
