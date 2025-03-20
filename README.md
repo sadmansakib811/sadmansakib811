@@ -1,5 +1,5 @@
 # <div align="left">Hi there👋
-  I'm Sadman Sakib- a Software developer living in Dortmund, Germany. I love writing clean and maintainable code for web application specialized in JavaScript technologies and mobile applications, passionate about learning and exploring new technologies as well I'm enthusiastic about UI/UX.  </div> 
+  I'm Sadman Sakib- a Software developer living in Dortmund, Germany. I love writing clean and maintainable code for web application specialized in PHP and JavaScript technologies and mobile applications, passionate about learning and exploring new technologies as well I'm enthusiastic about UI/UX.  </div> 
 
 ### <div align="left"> Web Developer</div>  
   
